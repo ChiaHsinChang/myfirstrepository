@@ -1,5 +1,6 @@
 # myfirstrepository
 learn to do git
+1. How to delete a Repository
 
 
 ### 1. How to delete a Repository
