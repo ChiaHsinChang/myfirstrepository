@@ -18,7 +18,7 @@ go into the target repository
 First is to add file
 
 ```cmd
-git add . //add file
+git add . //add all files
 ```
 
 Second is to commit file
