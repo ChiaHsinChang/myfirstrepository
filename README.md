@@ -1,5 +1,5 @@
 # myfirstrepository
-learn to do git
+here are the short description that the situation encountered during learning github
 1. How to delete a Repository
 
 
