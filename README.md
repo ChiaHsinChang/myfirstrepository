@@ -15,19 +15,19 @@ go into the target repository
 
 ### 2. How to upload files from local to cloud
 
-First is to add file
+First, add file
 
 ```cmd
 git add . //add all files
 ```
 
-Second is to commit file
+Second, commit file
 
 ```cmd
 git commit -m " type the annotation here " //commti all files
 ```
 
-last is to push file
+last, push file
 
 ```cmd
 git push
